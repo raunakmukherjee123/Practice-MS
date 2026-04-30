@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/eureka-practice/eureka-practice/pom.xml" />
         <option value="$PROJECT_DIR$/apigateway/apigateway/pom.xml" />
         <option value="$PROJECT_DIR$/Notification/Notification/pom.xml" />
+        <option value="$PROJECT_DIR$/producer/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer/consumer/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,9 +1,9 @@
 spring:
   application:
-    name: producer
+    name: consumer
   kafka:
-    producer:
+    consumer:
       bootstrap-server: localhost:9092
 
 server:
-  port: 9090
+  port: 9091

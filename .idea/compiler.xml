@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="apigateway" />
+        <module name="producer" />
+        <module name="consumer" />
         <module name="eureka-practice" />
       </profile>
       <profile name="Annotation profile for PracticeMicroservice1" enabled="true">
@@ -37,7 +39,9 @@
       <module name="PracticeMicroservice" options="-parameters" />
       <module name="PracticeMicroservice1" options="-parameters" />
       <module name="apigateway" options="-parameters" />
+      <module name="consumer" options="-parameters" />
       <module name="eureka-practice" options="-parameters" />
+      <module name="producer" options="-parameters" />
     </option>
   </component>
 </project>
